@@ -10,4 +10,4 @@ The Dojo itself is a six week experience for the your team.  There is prep befor
 Measure success by the reduction of lead times to production, and higher quality released to customers.  This will be monitered frequently throughout the engagement.  If successful XYZ has the option to continue with the coaches and another team.  The goal is to establish the immersive learning model via the Dojo even when Liatrio coaches are not with the teams.  We are excited to partner with XYZ. 
 
 ## Links
-(Bootcamp)[/bootcamp]
+(Bootcamp)[https://github.com/eric-landes/liatrioxyz/tree/main/bootcamp)]
