@@ -1,4 +1,4 @@
-# XYZ Executive Summary  ![logo](image/liatriologo.svg){width=50 height=50}
+# XYZ Executive Summary  <img src='image/liatriologo.svg' width=50 height=50>
 Liatrio is thrilled to collaborate with XYZ Corp., responding to their need for accelerated software delivery to customers. XYZ Corp. sought our expertise to enhance their IT processes, specifically in migrating workloads to the cloud and modernizing existing architecture.
 
 With a proven track record, Liatrio has successfully facilitated similar transformations, exemplified by our work at [CareSource](https://insights.liatrio.com/CaseStudies/CareSource_2021.pdf). We specialize in not only migrating workloads but also in modernizing applications, setting a high standard within the industry.
