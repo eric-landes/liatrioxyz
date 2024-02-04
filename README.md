@@ -10,8 +10,8 @@ Liatrio proposes implementing our Dojo approach. Drawing from our experience, we
 ## The DOJO Experience:
 
 - A comprehensive six week program for your team.  
-- Prepratory activities include initial consulting and charter finalization taking an additional 2-3 weeks.  
-- 2 dedicated coaches with expertise in DevOps and Infrastructure As Code (IAC), for the length of the engagement. Based on the organizations hybrid environment we will conduct workshops on site and coaching can be done remotely. 
+- Prepratory activities include initial consulting and charter finalization taking an additional 3-5 weeks.  
+- 2 dedicated coaches with expertise in DevOps and Infrastructure As Code (IAC), and containerization for the length of the engagement. Based on the organizations hybrid environment we will conduct workshops on site and coaching can be done remotely. 
 - Full time involvement from the XYZ dev team 1 with extensive involvement expected from operations groups.
 
 ## Key Success Metrics
